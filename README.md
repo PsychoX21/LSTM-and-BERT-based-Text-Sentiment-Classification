@@ -1,4 +1,4 @@
-# LSTM-and-BERT-based-Text-Sentiment-Classification
+# Transformer-and-LSTM-based-Sentiment-Analysis
 
 This repository contains multiple approaches to perform sentiment analysis on movie reviews, including:
 
